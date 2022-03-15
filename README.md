@@ -7,7 +7,7 @@ El tema principal del proyecto es de realizar un análisis de datos de los ingre
 Para dicho análisis se utilizaron librerías como seaborn y matplotlib para las diferentes visualizaciones creadas, como de pandas y numpy para tratar (limpieza, transformación, unón de tablas, etc) los diferentes  Dataframes. Por otro lado, se dio uso de Webscraping (Selenium y BeatifulSoup) para la obtención de la información.
 
 Acontinuaciónse observa los 20 ingredientes más usados de acuerdo al repositor de recetas obtenidas.
-(https://github.com/JhonaleMF/Primer_EDA/tree/main/Images/countplot.png)
+![alt text](https://github.com/JhonaleMF/Primer_EDA/tree/main/Images/countplot.png)
 
 
 
