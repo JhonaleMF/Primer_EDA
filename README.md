@@ -1,4 +1,4 @@
-# Primer_EDA
+# Mi primer EDA
 Análisis Exploratorio de Datos de las distintas cocinas del mundo
 
 Mi primer repositorio realizado durante el Bootcamp de Data Science en The Bridge. Este proyecto se realizó con código Python (Notebook).
